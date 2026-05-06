@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>8_事業継続計画（BCP） — 防災ライブラリ</title>
+  <meta name="description" content="行政（都道府県・市区町村）および大企業の事業継続計画（BCP）を収録したデジタルアーカイブ">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap');
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Noto Sans JP', 'Helvetica Neue', Arial, sans-serif;
+      background: #0a0f1e;
+      color: #e2e8f0;
+      min-height: 100vh;
+    }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 80% 50% at 20% 20%, rgba(16,185,129,0.07) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 40% at 80% 80%, rgba(99,102,241,0.07) 0%, transparent 60%),
+        linear-gradient(135deg, #0a0f1e 0%, #0f1a14 50%, #0f172a 100%);
+      z-index: -1;
+    }
+
+    /* ===== HEADER ===== */
+    header {
+      text-align: center;
+      padding: 60px 24px 40px;
+    }
+    .header-tag {
+      display: inline-block;
+      font-size: 0.72rem;
+      letter-spacing: 0.2em;
+      color: #10b981;
+      text-transform: uppercase;
+      background: rgba(16,185,129,0.1);
+      border: 1px solid rgba(16,185,129,0.3);
+      padding: 4px 14px;
+      border-radius: 20px;
+      margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.8rem, 4vw, 3rem);
+      font-weight: 900;
+      letter-spacing: -0.02em;
+      line-height: 1.15;
+      background: linear-gradient(135deg, #f8fafc 0%, #10b981 50%, #6366f1 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 14px;
+    }
+    .subtitle {
+      font-size: 1rem;
+      color: #64748b;
+      margin-bottom: 30px;
+    }
+    .stats-row {
+      display: inline-flex;
+      gap: 28px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 12px;
+      padding: 14px 28px;
+      margin-bottom: 10px;
+    }
+    .stat { text-align: center; }
+    .stat-num {
+      font-size: 1.6rem;
+      font-weight: 800;
+      color: #10b981;
+      display: block;
+      line-height: 1;
+    }
+    .stat-label {
+      font-size: 0.72rem;
+      color: #475569;
+      margin-top: 3px;
+    }
+
+    /* ===== BACK LINK ===== */
+    .back-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: #6366f1;
+      font-size: 0.85rem;
+      font-weight: 600;
+      text-decoration: none;
+      margin-bottom: 40px;
+      padding: 8px 16px;
+      border: 1px solid rgba(99,102,241,0.3);
+      border-radius: 8px;
+      background: rgba(99,102,241,0.07);
+      transition: all 0.2s;
+    }
+    .back-link:hover {
+      background: rgba(99,102,241,0.15);
+      border-color: rgba(99,102,241,0.5);
+    }
+
+    /* ===== SEARCH ===== */
+    .search-wrap {
+      max-width: 580px;
+      margin: 0 auto 40px;
+      padding: 0 24px;
+      position: relative;
+    }
+    #search {
+      width: 100%;
+      padding: 13px 18px 13px 46px;
+      font-size: 0.95rem;
+      font-family: inherit;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 50px;
+      color: #e2e8f0;
+      outline: none;
+      transition: border-color 0.3s, box-shadow 0.3s;
+    }
+    #search:focus {
+      border-color: rgba(16,185,129,0.5);
+      box-shadow: 0 0 0 4px rgba(16,185,129,0.1);
+    }
+    #search::placeholder { color: #475569; }
+    .search-icon {
+      position: absolute;
+      left: 38px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1rem;
+      pointer-events: none;
+    }
+
+    /* ===== LAYOUT ===== */
+    .container { max-width: 1400px; margin: 0 auto; padding: 0 24px 80px; }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 300px 1fr;
+      gap: 24px;
+      align-items: start;
+    }
+
+    /* ===== SIDEBAR TREE ===== */
+    .sidebar {
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 16px;
+      padding: 20px;
+      position: sticky;
+      top: 20px;
+      max-height: calc(100vh - 40px);
+      overflow-y: auto;
+    }
+    .sidebar::-webkit-scrollbar { width: 4px; }
+    .sidebar::-webkit-scrollbar-track { background: transparent; }
+    .sidebar::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 2px; }
+
+    .sidebar-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      color: #475569;
+      text-transform: uppercase;
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+
+    .tree-node { list-style: none; }
+    .tree-node ul { margin-left: 16px; border-left: 1px solid rgba(255,255,255,0.07); padding-left: 10px; }
+
+    .tree-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 8px;
+      border-radius: 7px;
+      cursor: pointer;
+      font-size: 0.82rem;
+      color: #94a3b8;
+      transition: all 0.15s;
+      user-select: none;
+    }
+    .tree-item:hover { background: rgba(16,185,129,0.08); color: #10b981; }
+    .tree-item.active { background: rgba(16,185,129,0.12); color: #34d399; font-weight: 600; }
+    .tree-item .toggle { font-size: 0.65rem; color: #475569; width: 12px; flex-shrink: 0; }
+    .tree-item .node-icon { font-size: 0.9rem; }
+    .tree-children { display: none; }
+    .tree-children.open { display: block; }
+
+    /* ===== MAIN CONTENT ===== */
+    .main-content {}
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+    .section-icon { font-size: 1.5rem; }
+    .section-title { font-size: 1.2rem; font-weight: 700; color: #f1f5f9; }
+    .section-badge {
+      background: rgba(16,185,129,0.15);
+      border: 1px solid rgba(16,185,129,0.3);
+      color: #34d399;
+      font-size: 0.72rem;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-weight: 600;
+      margin-left: auto;
+    }
+
+    /* ===== CARDS GRID ===== */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+    }
+
+    .entity-card {
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 14px;
+      padding: 18px;
+      transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+      position: relative;
+      overflow: hidden;
+    }
+    .entity-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, #10b981, #6366f1);
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+    .entity-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 16px 40px rgba(0,0,0,0.25);
+      border-color: rgba(16,185,129,0.2);
+    }
+    .entity-card:hover::before { opacity: 1; }
+
+    .entity-name {
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: #cbd5e1;
+      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .entity-name .icon { font-size: 1rem; }
+    .entity-status {
+      font-size: 0.72rem;
+      color: #475569;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+    .status-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #334155;
+    }
+    .status-dot.has-files { background: #10b981; }
+
+    .file-list-mini {
+      margin-top: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      max-height: 120px;
+      overflow-y: auto;
+    }
+    .file-list-mini::-webkit-scrollbar { width: 3px; }
+    .file-list-mini::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); }
+
+    .file-link-mini {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 8px;
+      background: rgba(16,185,129,0.06);
+      border-radius: 6px;
+      text-decoration: none;
+      color: #94a3b8;
+      font-size: 0.75rem;
+      transition: background 0.15s, color 0.15s;
+    }
+    .file-link-mini:hover {
+      background: rgba(16,185,129,0.12);
+      color: #6ee7b7;
+    }
+    .file-link-mini .ficon { font-size: 0.85rem; flex-shrink: 0; }
+
+    /* ===== EMPTY STATE ===== */
+    .empty-state {
+      text-align: center;
+      padding: 40px 20px;
+      color: #334155;
+      font-size: 0.85rem;
+    }
+    .empty-icon { font-size: 2rem; margin-bottom: 8px; opacity: 0.4; }
+
+    /* ===== TABS ===== */
+    .tabs {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+    }
+    .tab-btn {
+      padding: 8px 18px;
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.1);
+      background: rgba(255,255,255,0.04);
+      color: #64748b;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+    .tab-btn:hover { border-color: rgba(16,185,129,0.3); color: #10b981; }
+    .tab-btn.active {
+      background: rgba(16,185,129,0.12);
+      border-color: rgba(16,185,129,0.4);
+      color: #34d399;
+    }
+
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+
+    /* ===== PREF GRID ===== */
+    .pref-region {
+      margin-bottom: 24px;
+    }
+    .region-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      color: #475569;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+      padding: 4px 10px;
+      background: rgba(255,255,255,0.03);
+      border-radius: 6px;
+      display: inline-block;
+    }
+    .pref-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 8px;
+    }
+    .pref-item {
+      padding: 10px 14px;
+      background: rgba(255,255,255,0.03);
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 10px;
+      font-size: 0.82rem;
+      color: #94a3b8;
+      cursor: pointer;
+      transition: all 0.15s;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .pref-item:hover { background: rgba(16,185,129,0.07); border-color: rgba(16,185,129,0.2); color: #10b981; }
+    .pref-item.has-files { border-color: rgba(16,185,129,0.3); }
+    .pref-count { margin-left: auto; font-size: 0.68rem; color: #475569; }
+    .pref-count.filled { color: #10b981; }
+
+    /* ===== NO RESULTS ===== */
+    #no-results-msg { text-align: center; color: #334155; padding: 40px; display: none; }
+
+    /* ===== FOOTER ===== */
+    footer {
+      text-align: center;
+      padding: 24px;
+      color: #334155;
+      font-size: 0.78rem;
+      border-top: 1px solid rgba(255,255,255,0.05);
+    }
+
+    /* ===== MOBILE ===== */
+    @media (max-width: 768px) {
+      .two-col { grid-template-columns: 1fr; }
+      .sidebar { position: static; max-height: none; }
+      header { padding: 40px 16px 28px; }
+      .container { padding: 0 16px 60px; }
+      .pref-grid { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-tag">BCP Archive — Category 8</div>
+    <h1>事業継続計画（BCP）<br>総合インデックス</h1>
+    <p class="subtitle">行政・企業の事業継続計画を収録したデジタルアーカイブ</p>
+    <div class="stats-row">
+      <div class="stat"><span class="stat-num" id="stat-admin">47</span><span class="stat-label">都道府県</span></div>
+      <div class="stat"><span class="stat-num" id="stat-muni">62</span><span class="stat-label">東京都市区町村</span></div>
+      <div class="stat"><span class="stat-num" id="stat-corp">100+</span><span class="stat-label">収録企業</span></div>
+    </div>
+  </header>
+  <div style="text-align:center; margin-bottom: 20px;">
+    <a class="back-link" href="../index.html">← 防災ライブラリ 総合インデックスへ戻る</a>
+  </div>
+
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="search" placeholder="都道府県・市区町村・企業名を検索..." autocomplete="off">
+  </div>
+
+  <div class="container">
+    <!-- Tabs -->
+    <div class="tabs" id="main-tabs">
+      <button class="tab-btn active" data-tab="admin-pref">🏛️ 都道府県 BCP</button>
+      <button class="tab-btn" data-tab="admin-muni">🏙️ 市区町村 BCP（東京都）</button>
+      <button class="tab-btn" data-tab="corp">🏢 企業 BCP</button>
+    </div>
+
+    <!-- Tab: 都道府県 -->
+    <div class="tab-panel active" id="tab-admin-pref">
+      <div class="section-header">
+        <span class="section-icon">🗾</span>
+        <span class="section-title">都道府県 事業継続計画</span>
+        <span class="section-badge">全 47 都道府県</span>
+      </div>
+      <div id="pref-container"></div>
+    </div>
+
+    <!-- Tab: 市区町村 -->
+    <div class="tab-panel" id="tab-admin-muni">
+      <div class="section-header">
+        <span class="section-icon">🗼</span>
+        <span class="section-title">東京都 市区町村 事業継続計画</span>
+        <span class="section-badge">62 市区町村</span>
+      </div>
+      <div id="muni-container"></div>
+    </div>
+
+    <!-- Tab: 企業 -->
+    <div class="tab-panel" id="tab-corp">
+      <div class="section-header">
+        <span class="section-icon">🏭</span>
+        <span class="section-title">大企業 事業継続計画</span>
+        <span class="section-badge" id="corp-count-badge">100+ 企業</span>
+      </div>
+      <div id="corp-container"></div>
+    </div>
+
+    <p id="no-results-msg">検索結果が見つかりませんでした。</p>
+  </div>
+
+  <footer>
+    防災ライブラリ デジタルアーカイブ — カテゴリ 8: 事業継続計画（BCP）
+  </footer>
+
+  <script src="data.js"></script>
+  <script>
+    // ===================== DATA =====================
+    const PREFS = BCP_DATA.children[0].children[0].children; // 都道府県
+    const MUNIS = BCP_DATA.children[0].children[1].children[0].children; // 東京都市区町村
+    const SECTORS = BCP_DATA.children[1].children; // 企業セクター
+
+    const REGIONS = [
+      { label: "北海道・東北", range: [0,6] },
+      { label: "関東", range: [7,13] },
+      { label: "中部", range: [14,23] },
+      { label: "近畿", range: [24,29] },
+      { label: "中国・四国", range: [30,38] },
+      { label: "九州・沖縄", range: [39,46] }
+    ];
+
+    // ===================== TABS =====================
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+        btn.classList.add('active');
+        document.getElementById('tab-' + btn.dataset.tab).classList.add('active');
+      });
+    });
+
+    // ===================== RENDER PREFS =====================
+    function renderPrefs(filter='') {
+      const container = document.getElementById('pref-container');
+      container.innerHTML = '';
+      REGIONS.forEach(region => {
+        const prefs = PREFS.slice(region.range[0], region.range[1]+1)
+          .filter(p => !filter || p.name.includes(filter));
+        if (!prefs.length) return;
+        const regionEl = document.createElement('div');
+        regionEl.className = 'pref-region';
+        regionEl.innerHTML = `<div class="region-label">${region.label}</div>`;
+        const grid = document.createElement('div');
+        grid.className = 'pref-grid';
+        prefs.forEach(pref => {
+          const fileCount = pref.files ? pref.files.length : 0;
+          const item = document.createElement('div');
+          item.className = 'pref-item' + (fileCount > 0 ? ' has-files' : '');
+          item.innerHTML = `
+            <span>🏛️</span>
+            <span>${pref.name.replace(/^\d+_/, '')}</span>
+            <span class="pref-count ${fileCount > 0 ? 'filled' : ''}">${fileCount > 0 ? fileCount + '件' : '未収録'}</span>
+          `;
+          if (fileCount > 0) {
+            item.style.cursor = 'pointer';
+            item.title = `${pref.files.length}件のファイルを収録`;
+          }
+          grid.appendChild(item);
+        });
+        regionEl.appendChild(grid);
+        container.appendChild(regionEl);
+      });
+    }
+
+    // ===================== RENDER MUNIS =====================
+    function renderMunis(filter='') {
+      const container = document.getElementById('muni-container');
+      container.innerHTML = '';
+
+      const groups = [
+        { label: "特別区（23区）", items: MUNIS.slice(0, 23) },
+        { label: "市部", items: MUNIS.slice(23, 49) },
+        { label: "町村部", items: MUNIS.slice(49, 53) },
+        { label: "島しょ部", items: MUNIS.slice(53) }
+      ];
+
+      groups.forEach(group => {
+        const items = group.items.filter(m => !filter || m.name.includes(filter));
+        if (!items.length) return;
+        const el = document.createElement('div');
+        el.className = 'pref-region';
+        el.innerHTML = `<div class="region-label">${group.label}</div>`;
+        const grid = document.createElement('div');
+        grid.className = 'pref-grid';
+        items.forEach(muni => {
+          const fileCount = muni.files ? muni.files.length : 0;
+          const item = document.createElement('div');
+          item.className = 'pref-item' + (fileCount > 0 ? ' has-files' : '');
+          item.innerHTML = `
+            <span>🏙️</span>
+            <span>${muni.name}</span>
+            <span class="pref-count ${fileCount > 0 ? 'filled' : ''}">${fileCount > 0 ? fileCount + '件' : '未収録'}</span>
+          `;
+          grid.appendChild(item);
+        });
+        el.appendChild(grid);
+        container.appendChild(el);
+      });
+    }
+
+    // ===================== RENDER CORPS =====================
+    function renderCorps(filter='') {
+      const container = document.getElementById('corp-container');
+      container.innerHTML = '';
+      let totalCompanies = 0;
+
+      SECTORS.forEach(sector => {
+        const companies = sector.children.filter(c => !filter || c.name.includes(filter));
+        if (!companies.length) return;
+        totalCompanies += companies.length;
+
+        const sectorEl = document.createElement('div');
+        sectorEl.style.marginBottom = '28px';
+
+        const header = document.createElement('div');
+        header.className = 'section-header';
+        header.style.marginBottom = '14px';
+        header.innerHTML = `
+          <span class="section-icon">${sector.icon || '🏭'}</span>
+          <span class="section-title" style="font-size:1rem;">${sector.name.replace(/^\d+_/, '')}</span>
+          <span class="section-badge">${companies.length} 社</span>
+        `;
+
+        const grid = document.createElement('div');
+        grid.className = 'cards-grid';
+
+        companies.forEach(company => {
+          const fileCount = company.files ? company.files.length : 0;
+          const card = document.createElement('div');
+          card.className = 'entity-card';
+          let filesHtml = '';
+          if (fileCount > 0) {
+            filesHtml = '<div class="file-list-mini">' +
+              company.files.map(f => `
+                <a class="file-link-mini" href="./${encodeURIComponent('2_企業BCP/' + sector.name + '/' + company.name + '/' + f.name)}" target="_blank">
+                  <span class="ficon">${f.icon || '📄'}</span>
+                  <span>${f.name}</span>
+                </a>
+              `).join('') + '</div>';
+          }
+          card.innerHTML = `
+            <div class="entity-name">
+              <span class="icon">🏢</span>
+              <span>${company.name}</span>
+            </div>
+            <div class="entity-status">
+              <span class="status-dot ${fileCount > 0 ? 'has-files' : ''}"></span>
+              ${fileCount > 0 ? `<span style="color:#10b981;">${fileCount} 件収録</span>` : '<span>未収録 — 収集待ち</span>'}
+            </div>
+            ${filesHtml}
+          `;
+          grid.appendChild(card);
+        });
+
+        sectorEl.appendChild(header);
+        sectorEl.appendChild(grid);
+        container.appendChild(sectorEl);
+      });
+
+      document.getElementById('corp-count-badge').textContent = totalCompanies + ' 企業';
+    }
+
+    // ===================== SEARCH =====================
+    document.getElementById('search').addEventListener('input', e => {
+      const q = e.target.value.trim();
+      renderPrefs(q);
+      renderMunis(q);
+      renderCorps(q);
+    });
+
+    // ===================== INIT =====================
+    renderPrefs();
+    renderMunis();
+    renderCorps();
+  </script>
+</body>
+</html>

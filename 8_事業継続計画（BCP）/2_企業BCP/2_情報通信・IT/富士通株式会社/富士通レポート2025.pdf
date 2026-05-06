@@ -1,0 +1,3140 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="ja-JP">
+<!--<![endif]-->
+<head>
+<link href="/-/media/Feature/Experience-Accelerator/Bootstrap-4/Bootstrap-4/Styles/pre-optimized-min.css?rev=-1&t=&hash=F91EC58F4CB9EE6D7142202533E84586" rel="stylesheet"><link href="/-/media/Base-Themes/Core-Libraries/styles/pre-optimized-min.css?rev=-1&t=&hash=50FD9F3DA236325177D5EA63C809CAA8" rel="stylesheet"><link href="/-/media/Base-Themes/Main-Theme/styles/pre-optimized-min.css?rev=-1&t=&hash=B1150285878E6045101A32F72D13B910" rel="stylesheet">
+
+    
+    
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+
+
+<meta  name="description" content="富士通株式会社の公式サイトです。富士通は、グローバルにデジタルサービスを提供し、テクノロジーとビジネスソリューションのリーダーとして、お客様の成長と社会の未来に貢献しています。"><meta  name="keywords" content="SX, コンサルティング, サステナブル, 地球環境問題, デジタル社会, Well-being, 解決, 発展, 知見, ストラテジー, テクノロジー, オペレーション, インダストリー">
+
+    <link rel="canonical" href="https://global.fujitsu/ja-jp" />
+
+
+
+
+
+
+    <title>富士通｜Fujitsu Limited</title>
+
+    <link href="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/favicon.ico?rev=ae9b6f01cab14782a4a36cde73c05d6d" rel="shortcut icon" />
+
+
+
+
+<meta property="og:description"  content="富士通株式会社の公式サイトです。富士通は、グローバルにデジタルサービスを提供し、テクノロジーとビジネスソリューションのリーダーとして、お客様の成長と社会の未来に貢献しています。"><meta property="og:type"  content="website"><meta property="og:site_name"  content="Fujitsu"><meta property="og:image"  content="https://global.fujitsu/-/media/Project/Fujitsu/shared/assets/img/ogp-image-v40.png?rev=150db6e93482478bbafa7d4a3f56c49a"><meta property="og:title"  content="富士通｜Fujitsu Limited"><meta property="og:url" content="https://global.fujitsu/ja-jp">
+
+
+    <meta property="twitter:image" content="https://global.fujitsu/-/media/Project/Fujitsu/shared/assets/img/ogp-image-v40.png?rev=150db6e93482478bbafa7d4a3f56c49a" />
+    <meta property="twitter:description" content="富士通株式会社の公式サイトです。富士通は、グローバルにデジタルサービスを提供し、テクノロジーとビジネスソリューションのリーダーとして、お客様の成長と社会の未来に貢献しています。" />
+    <meta property="twitter:title" content="富士通｜Fujitsu Limited" />
+    <meta property="twitter:card" content="summary_large_image" />
+
+
+<link href="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/css/custom.css?ver=1.0.0" rel="stylesheet">
+<link href="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/css/privacy-warning.css?ver=1.0.0" rel="stylesheet">
+<link href="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/css/style.css?ver=1.0.17" rel="stylesheet">
+<link href="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/css/ext-services.css?ver=1.0.0" rel="stylesheet">
+<link href="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/css/style-pr.css?ver=1.0.12" rel="stylesheet">
+<link href="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/css/style-overrides.css?ver=1.0.30" rel="stylesheet">
+<link href="/-/media/Project/Fujitsu/Fujitsu-HQ/gmu/brand-evolution/style-be.css?ver=0.0.6" rel="stylesheet">
+
+<!-- Google Tag Manager -->
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', "GTM-PSW3LLV");
+</script>
+    <style>
+#mainContents .section-bg-img:first-child::before {
+    content: "";
+    background-image: url(/-/media/Project/Fujitsu/Fujitsu-HQ/home/home-bg-circle.svg);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+}
+</style>
+</head>
+<body class="default-device bodyclass">
+    
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PSW3LLV" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+    
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header class="l-header u-ta-center">
+        <div id="header" class="">
+            
+
+
+
+<div class="component content p-sentence-full-width-wtp">
+<div>
+<div class="component-content c-new-header">
+
+<noscript class="no-script">JavaScriptがオフだと一部のコンテンツが表示できない場合がありますのでオンにしてご利用ください。</noscript>
+<a href="#mainContents" class="skip-link"><span>このページの本文へ移動</span></a>
+<div class="c-new-header__wrapper">
+<div class="c-new-header__inner js-header-inner">
+<div class="c-new-header__logo">
+<a href="https://global.fujitsu/ja-jp" target="_self" >
+<img alt="Fujitsu" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/logo-fujitsu.svg?rev=e2b407d69a85407fade55f71f6e06af3&amp;hash=429F74EE7FA9AF5CB7772EA57F57FF8E">
+</a>
+</div>
+
+<nav class="c-new-header-navigation u-font-size14 u-font-size-14-sp u-font-weight-bold pc-only" aria-label="global navigation">
+<ul class="c-new-header-navigation__top">
+<li class="c-new-header-category" data-key="menu-sub00">
+<button class="c-new-header-category__title" type="button" aria-expanded="false" aria-controls="menu-sub00-subtree">
+企業情報
+</button>
+<div id="menu-sub00-subtree" class="pc-only is-hidden" role="region" aria-hidden="true" style="position: fixed; top: 119px;">
+<div class="c-navigation-overlay"></div>
+<span class="c-pull-down__border"></span>
+<div class="c-nav-contents c-pull-down__contents pc-only">
+<nav class="c-nav-contents__box c-nav-contents__box--2col">
+<ul class="c-nav-contents__list c-nav-contents__list-2col">
+<li class="c-nav-contents__heading u-font-weight-bold">
+<ul class="c-nav-wrap">
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about" target="_self" >
+企業情報<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/our-business" target="_self" >
+事業内容<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/local/blog" target="_self" >
+フジトラニュース<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/customer-stories" target="_self" >
+お客様事例<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/resources" target="_self" >
+富士通ナレッジナビゲーター​<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="https://seminar.jp.fujitsu.com/public" target="_self" >
+イベント・セミナー<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/activities/startup" target="_self" >
+スタートアップ共創<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/activities/advertising" target="_self" >
+主催・協賛イベント<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="https://sports.jp.fujitsu.com/" target="_self" >
+富士通とスポーツ<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/activities/procurement" target="_self" >
+取引先企業の皆さまへ<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+<button class="c-close">
+<img class="c-close__icon" alt="close" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-close-black.svg?rev=bacacf2cd1a249dd830cd0e6da1857d0&amp;hash=1BAE3F413D2519A4B81C8D70B0D35827">
+</button>
+</nav>
+</div>
+</div>
+</li>
+<li class="c-new-header-category">
+<a href="/ja-jp/pr" target="_self"  class="c-new-header-category__title">Press Room</a>
+</li>
+<li class="c-new-header-category">
+<a href="/ja-jp/ir" target="_self"  class="c-new-header-category__title">株主・投資家情報 (IR)</a>
+</li>
+<li class="c-new-header-category">
+<a href="https://fujitsu.recruiting.jp.fujitsu.com/" target="_self"  class="c-new-header-category__title">採用</a>
+</li>
+<li class="c-new-header-category c-language__icon">
+<a class="c-language" href="https://global.fujitsu/ja-jp/country-selector" target="_self" >
+<img alt="language" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-language.svg?rev=4b8abf3ea66248c6ac5f68543bcfcc08&amp;hash=141AC172E100643862529F09367743A5">
+</a>
+</li>
+<li class="c-new-header-category c-search-wrap">
+<form class="c-search" method="get" action="https://global.fujitsu/ja-jp/search">
+<label class="c-search-label">
+<input class="c-search-label__input" placeholder="検索" data-uw-rm-form="fx" aria-label="検索" data-uw-hidden-control="hidden-control-element" type="search" name="q">
+<button class="c-search-label__icon" type="reset" aria-label="reset">
+<img alt="close search" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-close-form.svg?rev=d850861483ef427abed1cac2a356bd47&amp;hash=A09F6B815D2BA57D8721363FB0236C62">
+</button>
+<button class="c-search-label__icon" type="button" aria-label="search" tabindex="-1">
+<img alt="search" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-search.svg?rev=3e1c247210b045979ee4c7758c5609bd&amp;hash=29257116B892ACD0C17A9BB94C63423B">
+</button>
+<button class="c-search-label__icon" type="submit" aria-label="search">
+<img alt="search" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-search-red.svg?rev=025f90ff4e444ef383cf2a9e012b12ef&amp;hash=8598948559CA0F4DA2FABEA89F9D46C3">
+</button>
+</label>
+<button type="button" class="c-search__close">
+<img alt="close search" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-close-form.svg?rev=d850861483ef427abed1cac2a356bd47&amp;hash=A09F6B815D2BA57D8721363FB0236C62">
+</button>
+</form>
+</li>
+</ul>
+<ul class="c-new-header-navigation__top">
+<li class="c-new-header-category" data-key="menu-main00">
+<button class="c-new-header-category__title" type="button" aria-expanded="false" aria-controls="menu-main00-subtree">
+産業別
+</button>
+<div id="menu-main00-subtree" class="pc-only is-hidden" role="region" aria-hidden="true" style="position: fixed; top: 119px;">
+<div class="c-navigation-overlay"></div>
+<span class="c-pull-down__border"></span>
+<div class="c-nav-contents c-pull-down__contents pc-only">
+<nav class="c-nav-contents__box c-nav-contents__box--2col">
+
+<ul class="c-nav-contents__list c-nav-contents__list-1col">
+<li class="c-nav-contents__heading u-font-weight-bold">
+<ul class="c-nav-wrap">
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/communications-media" target="_self" >
+通信・メディア・エンターテイメント<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/finance" target="_self" >
+金融<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/healthcare-pharma" target="_self" >
+ヘルスケア・製薬<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/manufacturing" target="_self" >
+製造<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/mobility-transport" target="_self" >
+モビリティ・交通<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/public-sector" target="_self" >
+政府・自治体・公共・教育<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/retail" target="_self" >
+小売<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/resources-energy" target="_self" >
+資源・エネルギー<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+<button class="c-close">
+<img class="c-close__icon" alt="close" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-close-black.svg?rev=bacacf2cd1a249dd830cd0e6da1857d0&amp;hash=1BAE3F413D2519A4B81C8D70B0D35827">
+</button>
+</nav>
+</div>
+</div>
+</li>
+<li class="c-new-header-category" data-key="menu-main01">
+<button class="c-new-header-category__title" type="button" aria-expanded="false" aria-controls="menu-main01-subtree">
+サービス
+</button>
+<div id="menu-main01-subtree" class="pc-only is-hidden" role="region" aria-hidden="true" style="position: fixed; top: 119px;">
+<div class="c-navigation-overlay"></div>
+<span class="c-pull-down__border"></span>
+<div class="c-nav-contents c-pull-down__contents pc-only">
+<nav class="c-nav-contents__box c-nav-contents__box--2col">
+
+<ul class="c-nav-contents__list ">
+<li class="c-nav-contents__heading u-font-weight-bold">
+<ul class="c-nav-wrap">
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/enterprise-ai" target="_self" >
+エンタープライズ向けAI<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/business-applications" target="_self" >
+ビジネスアプリケーション<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/cloud-platform" target="_self" >
+クラウドプラットフォーム<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/cloud-transformation" target="_self" >
+クラウドトランスフォーメーション<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/computer-platform" target="_self" >
+コンピュータプラットフォーム<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/consulting" target="_self" >
+コンサルティング<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/data-driven" target="_self" >
+データドリブン<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/managed-infrastructure-services" target="_self" >
+マネージドインフラストラクチャサービス<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/modernization" target="_self" >
+モダナイゼーション<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/network" target="_self" >
+ネットワーク<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/security" target="_self" >
+セキュリティ<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/software" target="_self" >
+ソフトウェア<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/work-life-shift" target="_self" >
+ワークライフシフト<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="https://status.jp.fujitsu.com/" target="_self" >
+各種サービスの稼働状況<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/support" target="_self" >
+セキュリティ情報<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+<button class="c-close">
+<img class="c-close__icon" alt="close" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-close-black.svg?rev=bacacf2cd1a249dd830cd0e6da1857d0&amp;hash=1BAE3F413D2519A4B81C8D70B0D35827">
+</button>
+</nav>
+</div>
+</div>
+</li>
+<li class="c-new-header-category">
+<a href="/ja-jp/insight" target="_self"  class="c-new-header-category__title">知見</a>
+</li>
+<li class="c-new-header-category">
+<a href="/ja-jp/uvance" target="_self"  class="c-new-header-category__title">Uvance</a>
+</li>
+<li class="c-new-header-category">
+<a href="/ja-jp/wayfinders" target="_self"  class="c-new-header-category__title">Uvance Wayfinders</a>
+</li>
+<li class="c-new-header-category" data-key="menu-main05">
+<button class="c-new-header-category__title" type="button" aria-expanded="false" aria-controls="menu-main05-subtree">
+テクノロジー
+</button>
+<div id="menu-main05-subtree" class="pc-only is-hidden" role="region" aria-hidden="true" style="position: fixed; top: 119px;">
+<div class="c-navigation-overlay"></div>
+<span class="c-pull-down__border"></span>
+<div class="c-nav-contents c-pull-down__contents pc-only">
+<nav class="c-nav-contents__box c-nav-contents__box--2col">
+
+<ul class="c-nav-contents__list c-nav-contents__list-1col">
+<li class="c-nav-contents__heading u-font-weight-bold">
+<ul class="c-nav-wrap">
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/vision" target="_self" >
+Fujitsu Technology and Service Vision<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/technology/key-technologies" target="_self" >
+キーテクノロジー<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/technology/research" target="_self" >
+研究開発<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+<button class="c-close">
+<img class="c-close__icon" alt="close" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-close-black.svg?rev=bacacf2cd1a249dd830cd0e6da1857d0&amp;hash=1BAE3F413D2519A4B81C8D70B0D35827">
+</button>
+</nav>
+</div>
+</div>
+</li>
+<li class="c-new-header-category">
+<a href="/ja-jp/sustainability" target="_self"  class="c-new-header-category__title">サステナビリティ</a>
+</li>
+</ul>
+</nav>
+<nav class="c-new-header-navigation sp-only" aria-label="global navigation">
+<ul>
+<li class="c-language__icon">
+<a class="c-language" href="https://global.fujitsu/ja-jp/country-selector" target="_self" >
+<img alt="language" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-language.svg?rev=4b8abf3ea66248c6ac5f68543bcfcc08&amp;hash=141AC172E100643862529F09367743A5">
+</a>
+</li>
+<li>
+<form class="c-search" method="get" action="https://global.fujitsu/ja-jp/search">
+<label class="c-search-label">
+<input class="c-search-label__input" placeholder="検索" data-uw-rm-form="fx" aria-label="検索" data-uw-hidden-control="hidden-control-element" type="search" name="q">
+<button class="c-search-label__icon" type="reset" aria-label="reset">
+<img alt="close search" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-close-form.svg?rev=d850861483ef427abed1cac2a356bd47&amp;hash=A09F6B815D2BA57D8721363FB0236C62">
+</button>
+<button class="c-search-label__icon" type="button" aria-label="search" tabindex="-1">
+<img alt="search" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-search.svg?rev=3e1c247210b045979ee4c7758c5609bd&amp;hash=29257116B892ACD0C17A9BB94C63423B">
+</button>
+<button class="c-search-label__icon" type="submit" aria-label="search">
+<img alt="search" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-search-red.svg?rev=025f90ff4e444ef383cf2a9e012b12ef&amp;hash=8598948559CA0F4DA2FABEA89F9D46C3">
+</button>
+</label>
+</form>
+</li>
+<li><button class="c-menu"><span class="c-menu-icon"></span></button></li>
+</ul>
+</nav>
+</div>
+<div class="p-accordion is-hidden">
+<nav id="accordion" class="c-accordion sp-only">
+<button class="c-close">
+<img class="c-close__icon" alt="close" src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/global-navigation/icon-close-black.svg?rev=bacacf2cd1a249dd830cd0e6da1857d0&amp;hash=1BAE3F413D2519A4B81C8D70B0D35827">
+</button>
+<details class="c-accordion__item">
+<summary class="c-accordion__title u-font-size-18 u-font-weight-bold">産業別</summary>
+<div class="c-accordion__description sp-only">
+<ul class="c-nav-wrap">
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/communications-media" target="_self" >
+通信・メディア・エンターテイメント<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/finance" target="_self" >
+金融<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/healthcare-pharma" target="_self" >
+ヘルスケア・製薬<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/manufacturing" target="_self" >
+製造<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/mobility-transport" target="_self" >
+モビリティ・交通<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/public-sector" target="_self" >
+政府・自治体・公共・教育<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/retail" target="_self" >
+小売<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/industries/resources-energy" target="_self" >
+資源・エネルギー<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</details>
+<details class="c-accordion__item">
+<summary class="c-accordion__title u-font-size-18 u-font-weight-bold">サービス</summary>
+<div class="c-accordion__description sp-only">
+<ul class="c-nav-wrap">
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/enterprise-ai" target="_self" >
+エンタープライズ向けAI<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/business-applications" target="_self" >
+ビジネスアプリケーション<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/cloud-platform" target="_self" >
+クラウドプラットフォーム<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/cloud-transformation" target="_self" >
+クラウドトランスフォーメーション<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/computer-platform" target="_self" >
+コンピュータプラットフォーム<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/consulting" target="_self" >
+コンサルティング<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/data-driven" target="_self" >
+データドリブン<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/managed-infrastructure-services" target="_self" >
+マネージドインフラストラクチャサービス<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/modernization" target="_self" >
+モダナイゼーション<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/network" target="_self" >
+ネットワーク<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/security" target="_self" >
+セキュリティ<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/software" target="_self" >
+ソフトウェア<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/capabilities/work-life-shift" target="_self" >
+ワークライフシフト<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="https://status.jp.fujitsu.com/" target="_self" >
+各種サービスの稼働状況<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/support" target="_self" >
+セキュリティ情報<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</details>
+<div class="c-nav-list u-font-size-18">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/insight" target="_self" >
+知見<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="c-nav-list u-font-size-18">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/uvance" target="_self" >
+Uvance<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="c-nav-list u-font-size-18">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/wayfinders" target="_self" >
+Uvance Wayfinders<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<details class="c-accordion__item">
+<summary class="c-accordion__title u-font-size-18 u-font-weight-bold">テクノロジー</summary>
+<div class="c-accordion__description sp-only">
+<ul class="c-nav-wrap">
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/vision" target="_self" >
+Fujitsu Technology and Service Vision<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/technology/key-technologies" target="_self" >
+キーテクノロジー<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/technology/research" target="_self" >
+研究開発<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</details>
+<div class="c-nav-list u-font-size-18">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/sustainability" target="_self" >
+サステナビリティ<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<details class="c-accordion__item">
+<summary class="c-accordion__title u-font-size-18 u-font-weight-bold">企業情報</summary>
+<div class="c-accordion__description sp-only">
+<ul class="c-nav-wrap">
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about" target="_self" >
+企業情報<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/our-business" target="_self" >
+事業内容<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/local/blog" target="_self" >
+フジトラニュース<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/customer-stories" target="_self" >
+お客様事例<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/resources" target="_self" >
+富士通ナレッジナビゲーター​<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="https://seminar.jp.fujitsu.com/public" target="_self" >
+イベント・セミナー<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/activities/startup" target="_self" >
+スタートアップ共創<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/activities/advertising" target="_self" >
+主催・協賛イベント<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="https://sports.jp.fujitsu.com/" target="_self" >
+富士通とスポーツ<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="c-nav-list">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/about/activities/procurement" target="_self" >
+取引先企業の皆さまへ<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</details>
+<div class="c-nav-list u-font-size-18">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/pr" target="_self" >
+Press Room<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="c-nav-list u-font-size-18">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="/ja-jp/ir" target="_self" >
+株主・投資家情報 (IR)<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="c-nav-list u-font-size-18">
+<div class="component content col-12 full-width u-mt-0">
+<div>
+<div class="component-content">
+<div class="c-link">
+<a class="c-link__link" href="https://fujitsu.recruiting.jp.fujitsu.com/" target="_self" >
+採用<span class="c-link-icon">
+<svg viewBox="0 0 60 60">
+<path class="arrow"
+d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+</path>
+<circle class="circle" cx="30" cy="30" r="28"></circle>
+</svg>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main class="l-main">
+        <div id="mainContents" class="">
+            
+
+
+<div class="component content col-12 isga-bg-h3a full-width">
+    <div>
+            <div class="component-content">
+                    <div class="p-hero">
+                        <div class="p-hero__contents isga-bg-target">
+                                <h1 class="p-hero__title">
+                                                                            <span class="p-hero__title-sub">サイバーレジリエンスが持続的成長の扉を開く</span>
+                                                                            <span class="p-hero__title-main">ホワイトハッカーが解き明かすセキュリティ再設計</span>
+                                </h1>
+                                                            <div class="c-link c-link_type_large">
+                                    <a class="c-link__link" rel="noopener" href="/ja-jp/wayfinders/insight/cyber-security-20251217">
+                                        <span class="c-link-icon">
+                                            <svg viewBox="0 0 60 60">
+                                                <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+                                                </path>
+                                                <circle class="circle" cx="30" cy="30" r="28"></circle>
+                                            </svg>
+                                        </span>
+                                        記事を読む
+                                    </a>
+                                </div>
+                        </div>
+                        <div class="p-hero__media">
+                                <div class="p-hero__image-wrapper">
+                                    <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/wayfinders/insight/cyber-security-20251217/kv-uwf-cyber-security-936x578.jpg?rev=156cc73097494e8784636103185b2374&amp;hash=A57A774F8E4AF3D4779DACD4E30AAE79" alt="デジタル回路基板上に描かれた鍵と鍵穴のついた南京錠。" class="p-hero__image" loading="lazy">
+                                </div>
+
+                                <div class="p-hero__mark">
+                                        <svg class="p-hero__mark-back" xmlns:xlink="http://www.w3.org/1999/xlink" width="499" height="407" viewBox="0 0 518.47 419.24">
+                                            <image xlink:href="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/infinity-white.png?rev=89431c576c1744bd9e76fb52d583d1ea&amp;hash=C673D9F759898E17CDBDA3EEE8D244BB"
+                                                   width="100%"
+                                                   height="100%"
+                                                   mask="url(#clipmask)">
+                                            </image>
+                                            <mask id="clipmask" maskUnits="objectBoundingBox">
+                                                <path class="p-hero__mask" d="M237.82,311.58C212,360.21,211.6,408.57,141,399,89.5,392,40.45,350.24,40,292.51,39.5,226.26,103,184,147,184c45,0,56.72,30.26,106,73,54.79,47.52,60,65,117,65,54.59,0,122.35-53.87,129-128,6.74-75.08-51-154-125-154-108,0-98.68,75.23-128.32,122.52"></path>
+                                            </mask>
+                                        </svg>
+                                                                            <svg class="p-hero__mark-front" xmlns:xlink="http://www.w3.org/1999/xlink" width="499" height="407" viewBox="0 0 518.47 419.24">
+                                            <image xlink:href="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/infinity-cy.png?rev=64c9e5c921634ea4a276cd171ecbda36&amp;hash=A6D3E923C885C182ABF1D8A5160FA6CC"
+                                                   width="100%"
+                                                   height="100%"
+                                                   mask="url(#clipmask2)">
+                                            </image>
+                                            <mask id="clipmask2" maskUnits="objectBoundingBox">
+                                                <path class="p-hero__mask" d="M237.82,311.58C212,360.21,211.6,408.57,141,399,89.5,392,40.45,350.24,40,292.51,39.5,226.26,103,184,147,184c45,0,56.72,30.26,106,73,54.79,47.52,60,65,117,65,54.59,0,122.35-53.87,129-128,6.74-75.08-51-154-125-154-108,0-98.68,75.23-128.32,122.52" />
+                                            </mask>
+                                        </svg>
+                                </div>
+                        </div>
+                    </div>
+            </div>
+    </div>
+</div>
+<div class="component content col-12 full-width u-mt-0 u-pt-0">
+    <div class="component-content">
+<div class="l-section">
+
+<div class="component content section-bg-img col-12 full-width u-mt-0 u-pb-100 u-pt-30 section-bg-support-white section-bg-target" style="background-image: linear-gradient(rgba(255,255,255,0), rgba(255,255,255,0)), url(/-/media/Project/Fujitsu/Fujitsu-HQ/gmu/brand-evolution/assets/be-light-gradation.svg?rev=113237cd48c34fc6aaea6eec160a1ad9&hash=4026A63A597EF6E36F0B1B4400715857);">
+    <div>
+        <div class="component-content">
+            
+    <div id="PS-recommend-top_jp"></div>
+
+    <div id="PS-recommend-top_recipe_jp"></div>
+
+
+
+<div class="component content col-12 full-width u-mt-30 p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_divider">
+                    <div ></div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 u-font-size-60 u-font-size-28-sp full-width u-mt-s p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_proposition">
+                    <div class="c-proposition__title u-font-weight-bold u-font-size-16-sp">
+                                <h2 class="c-proposition__heading" id="">
+                                    最新の視点・論考                                </h2>
+                                            </div>
+                        <div class="c-proposition__text">
+                            <p class="c-proposition__text-msg u-font-weight-bold u-font-size-34 u-font-size-28-sp ">「生産性100倍」の衝撃。AIが“全工程”を無人化・自律化</p>
+                        </div>
+        </div>
+    </div>
+</div>
+<div class="component content col-12 full-width u-mt-0 u-pb-100 p-sentence-full-width-wtp">
+    <div>
+<div class="component-content p-sentence_layout2--8x4"><div class="c-collay"><div class="c-collay_item">
+
+
+<div class="component content col-12 u-font-size-16 u-font-size-16-sp full-width">
+    <div>
+            <div class="component-content p-sentence_text">
+                <div class="c-summary">
+                                                                                    <p>富士通が、ニッポンのエンジニアをもっと、クリエイティブにする―<br/>AIが要件定義から設計、実装、結合テストにわたる”全工程”を担う時代へ。富士通が描くのは、効率化を超えたシステム開発の新地平です。<br/></p>
+                                    </div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 u-button_type_arrow position-left u-font-size-18 u-font-size-14-sp full-width p-sentence-full-width-wtp solid-bg-red u-text-align-left">
+    <div>
+            <div class="component-content p-sentence_button">
+                    <div class="c-hero-2nd_btn">
+                        <a class="c-btn-cta" rel="noopener" href="/ja-jp/insight/tl-nikkei-20260401">
+                            <span>内容を見る</span>
+                        </a>
+                    </div>
+            </div>
+    </div>
+</div></div><div class="c-collay_item"></div></div></div>    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="component content col-12 p-sentence_layout-full-width position-left full-width p-sentence_layout3 u-pb-0" id="PS-customer_stories-top_jp">
+    <div>
+            <div class="component-content">
+                <div class="p-panel-layout">
+                    <div class="p-panel-layout__inner">
+                                    <div class="c-heading-panel">
+                                        <h2 class="c-heading-panel__heading" id="">お客様事例</h2>
+                                    </div>
+
+
+                        
+                        <div class="c-collay">
+                                        <div class="c-collay_item ">
+                                            <div class="c-panel">
+                                                    <div class="c-panel__wrap">
+                                                        <div class="c-panel__body">
+                                                                <div class="c-panel__content">
+                                                                                <p class="c-panel__title">
+                                                                                    <a class="c-panel__title-text" href="/ja-jp/customer-stories/cs-metallus-inc-20250925" target="" >
+                                                                                        メタラス 様<span class="c-link-icon"><svg viewBox="0 0 60 60" aria-hidden="true"><path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path><circle class="circle" cx="30" cy="30" r="28"></circle></svg></span>
+                                                                                    </a>
+                                                                                </p>
+
+                                                                        <div class="c-panel__text">特殊金属メーカーのメタラス様は、富士通との協業によりシステムを刷新。業務のシンプル化と将来の成長に向けた変革を進め、SAP S/4HANA基盤の構築後、複数の領域で具体的な成果を上げ始めています。</div>
+                                                                </div>
+                                                                                                                                <div class="c-panel__tags">
+                                                                            <p class="c-panel__tags-tag">Uvance</p>
+                                                                            <p class="c-panel__tags-tag">製造</p>
+                                                                            <p class="c-panel__tags-tag">ビジネスアプリケーション</p>
+                                                                    </div>
+                                                                                                                    </div>
+                                                            <div class="c-panel__media">
+                                                                <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/customer-stories/cs-metallus-inc-20250925/cs-metallus-inc-20250925-809x500.jpg?rev=5fe39c39ead1467a81399208802e6b2b&amp;hash=0B86756F72A1A4D4E4A4FE356B93A540" alt=""
+                                                                     width="860" height="532" loading="lazy" class="c-panel__media-item">
+                                                            </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="c-collay_item ">
+                                            <div class="c-panel">
+                                                    <div class="c-panel__wrap">
+                                                        <div class="c-panel__body">
+                                                                <div class="c-panel__content">
+                                                                                <p class="c-panel__title">
+                                                                                    <a class="c-panel__title-text" href="/ja-jp/customer-stories/cs-acer-medical-20260317" target="" >
+                                                                                        Acer Medical Inc. 様<span class="c-link-icon"><svg viewBox="0 0 60 60" aria-hidden="true"><path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path><circle class="circle" cx="30" cy="30" r="28"></circle></svg></span>
+                                                                                    </a>
+                                                                                </p>
+
+                                                                        <div class="c-panel__text">Acer Medical社が、富士通の骨格認識AI「HMA」を活用し、高齢者の疾病リスクを早期に把握可能なソリューションを開発。汎用カメラで撮影した歩行映像をAIが解析し、神経変性疾患の兆候を早期に把握。</div>
+                                                                </div>
+                                                                                                                                <div class="c-panel__tags">
+                                                                            <p class="c-panel__tags-tag">Digital Shifts</p>
+                                                                            <p class="c-panel__tags-tag">Uvance</p>
+                                                                            <p class="c-panel__tags-tag">Powered by Uvance</p>
+                                                                            <p class="c-panel__tags-tag">Japan</p>
+                                                                            <p class="c-panel__tags-tag">ヘルスケア・製薬</p>
+                                                                    </div>
+                                                                                                                    </div>
+                                                            <div class="c-panel__media">
+                                                                <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/customer-stories/cs-acer-medical-20260317/kv-cs-acer-medical-20260317-936x578.jpg?rev=e899f4ad1f28490e8dd381b8500ec5fc&amp;hash=548DBE345B6A87B36391F2AB5D32E49B" alt="白衣を着た2人の医師が、病院の廊下でタブレットを見ながら話し合っている。"
+                                                                     width="860" height="532" loading="lazy" class="c-panel__media-item">
+                                                            </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="c-collay_item ">
+                                            <div class="c-panel">
+                                                    <div class="c-panel__wrap">
+                                                        <div class="c-panel__body">
+                                                                <div class="c-panel__content">
+                                                                                <p class="c-panel__title">
+                                                                                    <a class="c-panel__title-text" href="/ja-jp/customer-stories/cs-beisia-20260303" target="" >
+                                                                                        株式会社ベイシア 様<span class="c-link-icon"><svg viewBox="0 0 60 60" aria-hidden="true"><path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path><circle class="circle" cx="30" cy="30" r="28"></circle></svg></span>
+                                                                                    </a>
+                                                                                </p>
+
+                                                                        <div class="c-panel__text">人手不足とHACCP義務化に、ベイシアが富士通のIoT可視化ソリューションで対応。温度管理自動化で業務負荷軽減し、食の安全を向上。顧客対応時間も創出。</div>
+                                                                </div>
+                                                                                                                                <div class="c-panel__tags">
+                                                                            <p class="c-panel__tags-tag">Digital Shifts</p>
+                                                                            <p class="c-panel__tags-tag">Uvance</p>
+                                                                            <p class="c-panel__tags-tag">Japan</p>
+                                                                            <p class="c-panel__tags-tag">10.000人以上</p>
+                                                                            <p class="c-panel__tags-tag">小売</p>
+                                                                    </div>
+                                                                                                                    </div>
+                                                            <div class="c-panel__media">
+                                                                <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/customer-stories/cs-beisia-20260303/kv-cs-beisia-20260303-936x578.jpg?rev=60ad6e2074ea4f3c8b7f6d1ee09a008d&amp;hash=7DA2C70996559F8EBC91AD735FCE1520" alt="スーパーマーケットで商品をチェックしている女性従業員"
+                                                                     width="860" height="532" loading="lazy" class="c-panel__media-item">
+                                                            </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+
+    <div id="PS-recommend-top_customer_stories_jp"></div>
+
+<div class="component content col-12 u-button_type_arrow position-left u-font-size-18 u-font-size-14-sp full-width u-mt-0 u-pb-100 p-sentence-full-width-wtp solid-bg-red u-text-align-left">
+    <div>
+            <div class="component-content p-sentence_button">
+                    <div class="c-hero-2nd_btn">
+                        <a class="c-btn-cta" rel="noopener" href="/ja-jp/customer-stories?tags=Fujitsu%20Uvance|Sustainable%20Manufacturing|Consumer%20Experience|Healthy%20Living|Trusted%20Society|Digital%20Shifts|Business%20Applications|Hybrid%20IT">
+                            <span>Uvanceに関する事例はこちら</span>
+                        </a>
+                    </div>
+            </div>
+    </div>
+</div>
+
+
+<div class="component content col-12 full-width p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_divider">
+                    <div ></div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 u-font-size-60 u-font-size-28-sp full-width p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_proposition">
+                    <div class="c-proposition__title u-font-weight-bold u-font-size-16-sp">
+                                <h2 class="c-proposition__heading" id="">
+                                    富士通について                                </h2>
+                                            </div>
+                        <div class="c-proposition__text">
+                            <p class="c-proposition__text-msg u-font-weight-bold u-font-size-34 u-font-size-28-sp ">イノベーションによる新たな価値の創造で、社会を変え、そして世界を変えていく。</p>
+                        </div>
+        </div>
+    </div>
+</div>
+
+<div class="component content col-12 u-button_type_arrow position-left u-font-size-18 u-font-size-14-sp full-width u-mt-0 u-pb-100 p-sentence-full-width-wtp solid-bg-red u-text-align-left">
+    <div>
+            <div class="component-content p-sentence_button">
+                    <div class="c-hero-2nd_btn">
+                        <a class="c-btn-cta" rel="noopener" href="https://www.fujitsu.com/jp/about/philosophy/">
+                            <span>Fujitsu Way</span>
+                        </a>
+                    </div>
+            </div>
+    </div>
+</div>
+
+
+<div class="component content col-12 full-width p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_divider">
+                    <div ></div>
+            </div>
+    </div>
+</div><div class="component content col-12 full-width u-pb-100 p-sentence-full-width-wtp">
+    <div>
+<div class="component-content p-sentence_layout2--4x8"><div class="c-collay"><div class="c-collay_item">
+<div class="component content col-12 position-left full-width u-mt-0">
+    <div>
+        <div class="component-content p-sentence_heading">
+                <div class="c-heading">
+                                                <h2 class="c-heading_ttl" id="">変革を支えるテクノロジー/ソリューション</h2>
+                </div>
+        </div>
+    </div>
+</div>
+</div><div class="c-collay_item">
+
+<div class="component content col-12 u-font-size-60 u-font-size-40-sp full-width u-mt-0">
+    <div>
+        <div class="component-content p-sentence_proposition">
+                    <div class="c-proposition__title u-font-weight-bold u-font-size-16-sp">
+                                                    <span class="c-proposition__heading-image" aria-hidden="true" style="background-image: url(/-/media/Project/Fujitsu/Fujitsu-HQ/home/home-icon1-160x160.png?rev=9859939e26ad469287034ef7f94b0977&amp;hash=178DA894F4ABB1C05BF9E818792385CF);"></span>
+                    </div>
+                        <div class="c-proposition__text c-proposition__text-with-image">
+                            <p class="c-proposition__text-msg u-font-weight-bold u-font-size-34 u-font-size-28-sp ">Uvance</p>
+                        </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 full-width u-mt-0">
+    <div>
+            <div class="component-content p-sentence_text">
+                <div class="c-summary">
+                                            <p class="c-summary_ttl">ビジネスを加速し、社会課題に挑むソリューション</p>
+                                                                            </div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 full-width u-mt-s">
+    <div>
+            <div class="component-content">
+                <div class="c-link">
+                    <a class="c-link__link" href="/ja-jp/uvance">
+                        Fujitsu Uvance
+                        <span class="c-link-icon">
+                            <svg viewBox="0 0 60 60">
+                                <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                <circle class="circle" cx="30" cy="30" r="28"></circle>
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+            </div>
+    </div>
+</div>
+
+
+<div class="component content col-12 full-width p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_divider">
+                    <div ></div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 u-font-size-60 u-font-size-40-sp full-width u-mt-s">
+    <div>
+        <div class="component-content p-sentence_proposition">
+                    <div class="c-proposition__title u-font-weight-bold u-font-size-16-sp">
+                                                    <span class="c-proposition__heading-image" aria-hidden="true" style="background-image: url(/-/media/Project/Fujitsu/Fujitsu-HQ/home/home-icon2-160x160.png?rev=769d75b828e14be1b984a9fb79585724&amp;hash=80007EAA3D2F4FDBE6016EE96A878A47);"></span>
+                    </div>
+                        <div class="c-proposition__text c-proposition__text-with-image">
+                            <p class="c-proposition__text-msg u-font-weight-bold u-font-size-34 u-font-size-28-sp ">Uvance Wayfinders</p>
+                        </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 full-width u-mt-0">
+    <div>
+            <div class="component-content p-sentence_text">
+                <div class="c-summary">
+                                            <p class="c-summary_ttl">富士通のコンサルティングブランド<br/>データ、AI、変革的テクノロジーの力で変化を先導し、真のインパクトを創出</p>
+                                                                            </div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 full-width u-mt-s">
+    <div>
+            <div class="component-content">
+                <div class="c-link">
+                    <a class="c-link__link" href="/ja-jp/wayfinders">
+                        Consulting by Fujitsu
+                        <span class="c-link-icon">
+                            <svg viewBox="0 0 60 60">
+                                <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                <circle class="circle" cx="30" cy="30" r="28"></circle>
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+            </div>
+    </div>
+</div>
+
+
+<div class="component content col-12 full-width p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_divider">
+                    <div ></div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 u-font-size-60 u-font-size-40-sp full-width u-mt-s">
+    <div>
+        <div class="component-content p-sentence_proposition">
+                    <div class="c-proposition__title u-font-weight-bold u-font-size-16-sp">
+                                                    <span class="c-proposition__heading-image" aria-hidden="true" style="background-image: url(/-/media/Project/Fujitsu/Fujitsu-HQ/home/home-icon4-160x160.png?rev=5ccd2e488ba24e40a3e6e52370a4214f&amp;hash=6DA66EC2902873463E7A98640816FAED);"></span>
+                    </div>
+                        <div class="c-proposition__text c-proposition__text-with-image">
+                            <p class="c-proposition__text-msg u-font-weight-bold u-font-size-34 u-font-size-28-sp ">Modernization</p>
+                        </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 full-width u-mt-0">
+    <div>
+            <div class="component-content p-sentence_text">
+                <div class="c-summary">
+                                            <p class="c-summary_ttl">既存情報システムを最適化し、DX基盤としてのあるべき姿に</p>
+                                                                            </div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 full-width u-mt-s">
+    <div>
+            <div class="component-content">
+                <div class="c-link">
+                    <a class="c-link__link" href="https://www.fujitsu.com/jp/services/modernization/">
+                        モダナイゼーション
+                        <span class="c-link-icon">
+                            <svg viewBox="0 0 60 60">
+                                <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                <circle class="circle" cx="30" cy="30" r="28"></circle>
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+            </div>
+    </div>
+</div>
+
+
+<div class="component content col-12 full-width p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_divider">
+                    <div ></div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 u-font-size-60 u-font-size-40-sp full-width u-mt-s">
+    <div>
+        <div class="component-content p-sentence_proposition">
+                    <div class="c-proposition__title u-font-weight-bold u-font-size-16-sp">
+                                                    <span class="c-proposition__heading-image" aria-hidden="true" style="background-image: url(/-/media/Project/Fujitsu/Fujitsu-HQ/home/home-icon3-160x160.png?rev=2265f336c6574832b4d9f1471f33e9ed&amp;hash=7DB536E7460BE03547781F31EC197AD4);"></span>
+                    </div>
+                        <div class="c-proposition__text c-proposition__text-with-image">
+                            <p class="c-proposition__text-msg u-font-weight-bold u-font-size-34 u-font-size-28-sp ">Key Technologies</p>
+                        </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 full-width u-mt-0">
+    <div>
+            <div class="component-content p-sentence_text">
+                <div class="c-summary">
+                                            <p class="c-summary_ttl">サステナビリティ・トランスフォーメーションを実現するキーテクノロジー</p>
+                                                                            </div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 full-width u-mt-s">
+    <div>
+            <div class="component-content">
+                <div class="c-link">
+                    <a class="c-link__link" href="/ja-jp/technology/key-technologies">
+                        5 Key Technologies
+                        <span class="c-link-icon">
+                            <svg viewBox="0 0 60 60">
+                                <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                <circle class="circle" cx="30" cy="30" r="28"></circle>
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+            </div>
+    </div>
+</div><div class="component content col-12 full-width u-mt-s u-pb-0 u-pt-0">
+    <div class="component-content">
+<div class="l-section">
+
+
+<div class="component content col-12 full-width section-bg-support-gray4 u-mt-0 p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_banner">
+            <div class="c-banner section-bg-target">
+
+<div class="component content col-12 full-width u-mt-0 u-pb-0 solid-bg-blue">
+    <div>
+            <div class="component-content p-sentence_inspiration-links">
+                    <div class="c-inspiration-link__inner">
+                            <div class="c-inspiration-link__heading c-inspiration-link__heading-icon">
+                                <p class="c-inspiration-link__heading__text u-font-weight-bold u-font-size-18">企業・組織の進化を切り拓く、富士通の信頼できるAI</p>
+                            </div>
+                                                    <div class="component content col-12 u-button_type_arrow u-fit-content p-sentence-full-width-wtp position-left u-mt-0 u-text-align-left">
+                                <div>
+                                    <div class="component-content p-sentence_button">
+                                        <div class="c-hero-2nd_btn">
+                                            <a class="c-btn-cta" rel="noopener" href="/ja-jp/capabilities/enterprise-ai">
+                                                <span>エンタープライズ向けAI</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                                            </div>
+            </div>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+</div>    </div>
+</div>
+</div></div></div>    </div>
+</div>
+
+<div class="component content col-12 hckv-bg-h3a full-width">
+    <div>
+            <div class="component-content">
+                    <div class="p-hero-3rd hckv-bg-target">
+                        <div class="p-hero-3rd__inner">
+                            <div class="p-hero-3rd__contents">
+                                    <h1 class="p-hero-3rd__title">
+                                            <span class="p-hero-3rd__title-main">課題解決にテクノロジーを駆使して取り組み、ポジティブなインパクトを社会に提供する</span>
+                                                                            </h1>
+                                                                    <div class="c-link c-link_type_large">
+                                        <a class="c-link__link" href="/ja-jp/sustainability">
+                                            <span class="c-link-icon">
+                                                <svg viewBox="0 0 60 60">
+                                                    <path class="arrow"
+                                                          d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+                                                    </path>
+                                                    <circle class="circle" cx="30" cy="30" r="28"></circle>
+                                                </svg>
+                                            </span>サステナビリティ
+                                        </a>
+                                    </div>
+                            </div>
+
+                                <div class="p-hero-3rd__media">
+                                    <div class="p-hero-3rd__circle">
+                                        <div class="p-hero-3rd__image-wrapper">
+                                            <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/sustainability/sustainability_contents_bg_2740x3046.jpg?rev=c4f425ef9b224b6a8d8b3a4e734ddb2a&amp;hash=253A60164B37AF386CB921517E82E847" alt="広大な森に日が差し込んでいる画像" class="p-hero-3rd__image" loading="lazy">
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 full-width p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_divider">
+                    <div ></div>
+            </div>
+    </div>
+</div>
+<div class="component content col-12 position-left full-width p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_heading">
+                <div class="c-heading">
+                                                <h2 class="c-heading_ttl" id="">インサイト</h2>
+                </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="component content col-12 p-sentence_layout-full-width full-width p-sentence_layout2">
+    <div>
+                <div class="component-content p-quote-card">
+                    <div class="c-quote-card c-collay">
+                            <div class="c-collay_item">
+                                <div class="c-quote-card__item">
+                                        <blockquote cite="#" class="c-quote-card__quote">
+                                            <p>お客様が主権を持てる“ソブリン基盤 ”を、ネットワーク、コンピューティング、ソフトウェアスタックまで全て提供していく。</p>
+                                        </blockquote>
+                                                                            <div class="c-link">
+                                            <a class="c-link__link" href="/ja-jp/insight/tl-technology-update-20251224" target="_self" >
+                                                富士通の新たな技術・研究戦略
+                                                <span class="c-link-icon">
+                                                    <svg viewBox="0 0 60 60">
+                                                        <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                                        <circle class="circle" cx="30" cy="30" r="28"></circle>
+                                                    </svg>
+                                                </span>
+                                            </a>
+                                        </div>
+                                                                                                        </div>
+                            </div>
+                            <div class="c-collay_item">
+                                <div class="c-quote-card__item">
+                                        <blockquote cite="#" class="c-quote-card__quote">
+                                            <p>AIの進化により、雇用や所得の安定は制度や企業に守られるものではなくなりつつあります。AI時代に求められるのは、自ら役割を再定義し、継続的にスキルを更新できる人材です。</p>
+                                        </blockquote>
+                                                                            <div class="c-link">
+                                            <a class="c-link__link" href="/ja-jp/insight/tl-employment_systems_ai_era-20260313" target="_self" >
+                                                制度改革と「自ら適応する力」が問われる時代へ
+                                                <span class="c-link-icon">
+                                                    <svg viewBox="0 0 60 60">
+                                                        <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                                        <circle class="circle" cx="30" cy="30" r="28"></circle>
+                                                    </svg>
+                                                </span>
+                                            </a>
+                                        </div>
+                                                                                                        </div>
+                            </div>
+                    </div>
+                </div>
+    </div>
+</div>
+
+<div class="component content col-12 u-button_type_arrow position-left u-font-size-18 u-font-size-14-sp full-width u-pb-100 p-sentence-full-width-wtp solid-bg-red u-text-align-left">
+    <div>
+            <div class="component-content p-sentence_button">
+                    <div class="c-hero-2nd_btn">
+                        <a class="c-btn-cta" rel="noopener" href="/ja-jp/insight">
+                            <span>最新の知見を読む</span>
+                        </a>
+                    </div>
+            </div>
+    </div>
+</div>
+
+
+<div class="component content col-12 full-width p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_divider">
+                    <div ></div>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 p-sentence_layout-full-width position-left full-width u-mt-0 p-sentence_layout3">
+    <div>
+            <div class="component-content">
+                <div class="p-panel-layout">
+                    <div class="p-panel-layout__inner">
+                                    <div class="c-heading-panel">
+                                        <h2 class="c-heading-panel__heading" id="">トピックス</h2>
+                                    </div>
+
+
+                        
+                        <div class="c-collay">
+                                        <div class="c-collay_item ">
+                                            <div class="c-panel">
+                                                    <div class="c-panel__wrap">
+                                                        <div class="c-panel__body">
+                                                                <div class="c-panel__content">
+                                                                                <p class="c-panel__title">
+                                                                                    <a class="c-panel__title-text" href="/ja-jp/about/integrated-report" target="_self" >
+                                                                                        富士通統合レポート2025<span class="c-link-icon"><svg viewBox="0 0 60 60" aria-hidden="true"><path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path><circle class="circle" cx="30" cy="30" r="28"></circle></svg></span>
+                                                                                    </a>
+                                                                                </p>
+
+                                                                        <div class="c-panel__text">富士通統合レポート2025を公開しました。お客様への提供価値の向上とネットポジティブの実現を目指す私たちの取り組みを様々な切り口でお伝えします。</div>
+                                                                </div>
+                                                                                                                                                                                </div>
+                                                            <div class="c-panel__media">
+                                                                <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/about/integrated-report/2025/kv-integrated-report-2025-936x578.jpg?rev=bf0b73d64dc94d0f9d5d85b20f76d42a&amp;hash=3C9D0121FD2F5566AA0D24A391B6CE4B" alt="富士通の役員集合写真"
+                                                                     width="860" height="532" loading="lazy" class="c-panel__media-item">
+                                                            </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="c-collay_item ">
+                                            <div class="c-panel">
+                                                    <div class="c-panel__wrap">
+                                                        <div class="c-panel__body">
+                                                                <div class="c-panel__content">
+                                                                                <p class="c-panel__title">
+                                                                                    <a class="c-panel__title-text" href="/ja-jp/technology/research/quantum" target="_self" >
+                                                                                        Fujitsu Quantum<span class="c-link-icon"><svg viewBox="0 0 60 60" aria-hidden="true"><path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path><circle class="circle" cx="30" cy="30" r="28"></circle></svg></span>
+                                                                                    </a>
+                                                                                </p>
+
+                                                                        <div class="c-panel__text">富士通は2030年、量子コンピュータでビジネスをリードします。本特設ページでは、富士通の量子コンピュータの技術をご紹介します。</div>
+                                                                </div>
+                                                                                                                                                                                </div>
+                                                            <div class="c-panel__media">
+                                                                <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/technology/research/quantum/kv-quantum-936x578.png?rev=e524f76758f04efe8ac85f1069b96044&amp;hash=0F27EBE45B6D8A76B1430DF846F65871" alt="富士通の256量子ビット 超伝導量子コンピュータの写真"
+                                                                     width="860" height="532" loading="lazy" class="c-panel__media-item">
+                                                            </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                        <div class="c-collay_item ">
+                                            <div class="c-panel">
+                                                    <div class="c-panel__wrap">
+                                                        <div class="c-panel__body">
+                                                                <div class="c-panel__content">
+                                                                                <p class="c-panel__title">
+                                                                                    <a class="c-panel__title-text" href="/ja-jp/local/blog/article/2026-03-24-01" target="_self" >
+                                                                                        異業種の“非常識”が、問いを強くする──共創の場「FUJI HACK」から見る新規事業創出のヒント<span class="c-link-icon"><svg viewBox="0 0 60 60" aria-hidden="true"><path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path><circle class="circle" cx="30" cy="30" r="28"></circle></svg></span>
+                                                                                    </a>
+                                                                                </p>
+
+                                                                        <div class="c-panel__text">異業種の“非常識”が問いを強くする。富士通の共創の場「FUJI HACK」は、多様な知見で常識を覆し、新規事業の種を探る実践の場。イノベーション創出のヒントを提供します。</div>
+                                                                </div>
+                                                                                                                                                                                </div>
+                                                            <div class="c-panel__media">
+                                                                <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/local/blog/article/2026-03-24-01/kv-blog-2026-03-24-936x578.jpg?rev=d335085dcbfb447da4b96f92209d1373&amp;hash=EF88C20D5189E0E0D9887E3D033BDE77" alt="FUJI HACK集合写真"
+                                                                     width="860" height="532" loading="lazy" class="c-panel__media-item">
+                                                            </div>
+                                                    </div>
+                                            </div>
+                                        </div>
+
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 full-width p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_banner">
+            <div class="c-banner ">
+
+<div class="component content col-12 u-justify-vertical-reverse c-media-layout_type_small u-mt-0 p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_component-wtp">
+                <div class="c-media-layout">
+                        <div class="c-media-layout__media">
+                            <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/resources/kv-resources-936x578.jpg?h=578&amp;iar=0&amp;w=936&amp;rev=4a84aef040b24cf595c4265e310bc672&amp;hash=902DAAFDFB5C8F2328737BD8E97822FE" class="c-media-layout__image" alt="パソコンの画面を見る男性" width="936" height="578" loading="lazy">
+                        </div>
+                    <div class="c-media-layout__contents">
+                            <div class="c-text-lead">
+                                <p><b>ビジネスを成功に導くための、富士通の最新情報</b></p>
+                            </div>
+                                                                        
+                        
+<div class="component content col-12 u-button_type_arrow position-left u-font-size-18 u-font-size-18-sp full-width u-mt-s p-sentence-full-width-wtp solid-bg-emerald u-text-align-left">
+    <div>
+            <div class="component-content p-sentence_button">
+                    <div class="c-hero-2nd_btn">
+                        <a class="c-btn-cta" rel="noopener" href="/ja-jp/resources">
+                            <span>業界トレンドを学ぶ</span>
+                        </a>
+                    </div>
+            </div>
+    </div>
+</div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 isga-bg-h1a full-width u-mt-30 p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_banner">
+            <div class="c-banner isga-bg-target">
+
+<div class="component content col-12 position-left full-width u-mt-0 p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_heading">
+                <div class="c-heading">
+                                                <h2 class="c-heading_ttl" id="">Press Room</h2>
+                </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 full-width u-mt-0 p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_text">
+                <div class="c-summary">
+                                                                                    <p>富士通および富士通グループが、プレスリリースや記者説明会、「Fujitsu PR note」などを通じて報道機関の方々に発信する最新ニュースや富士通が重点的に取り組むテーマについてお伝えしていきます。</p>
+                                    </div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 full-width u-mt-s">
+    <div>
+            <div class="component-content">
+                <div class="c-link">
+                    <a class="c-link__link" href="/ja-jp/pr">
+                        Press Room
+                        <span class="c-link-icon">
+                            <svg viewBox="0 0 60 60">
+                                <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                <circle class="circle" cx="30" cy="30" r="28"></circle>
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+            </div>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+
+<div class="component plain-html col-12">
+    <div class="component-content">
+<div style="padding-bottom: 3.7%"></div>    </div>
+</div>
+<div class="component content col-12 position-left full-width u-pt-30">
+    <div>
+        <div class="component-content">
+                    <div class="p-list-topics-b">
+                        <div class="p-list-topics__inner">
+                                <div class="c-heading">
+                                    <h2 class="c-heading_ttl" id="">PressRoom / お知らせ</h2>
+                                </div>
+                            <div class="c-list-topics-b">
+
+                                <ul class="c-list-topics-b__list c-list-topics-b__list-date-width1">
+
+
+
+                                        <li class="c-list-topics-b__item">
+                                            <time datetime="2026-04-28T00:00:00.000Z" class="c-list-topics-b__date u-font-size-14">2026年4月28日</time>
+                                            <div class="c-list-topics-b__info u-font-size-14-sp">
+                                                    <div class="c-link">
+                                                        <a class="c-link__link" href="/-/media/Project/Fujitsu/Fujitsu-HQ/pr/news/2026/04/28/01-ja.pdf?rev=769494823a9b41139287b0684973ad5f" target="_self" >
+                                                            自己株式取得に係る事項の決定に関するお知らせ（会社法第459条第1項の規定による定款の定めに基づく自己株式の取得）
+                                                            <span class="c-link-icon">
+                                                                <svg viewbox="0 0 60 60">
+                                                                    <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+                                                                    </path>
+                                                                    <circle class="circle" cx="30" cy="30" r="28">
+                                                                    </circle>
+                                                                </svg>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                                                                    <div class="c-list-topics-b__label u-font-size-12">適時開示</div>
+                                            </div>
+                                        </li>
+                                        <li class="c-list-topics-b__item">
+                                            <time datetime="2026-04-28T00:00:00.000Z" class="c-list-topics-b__date u-font-size-14">2026年4月28日</time>
+                                            <div class="c-list-topics-b__info u-font-size-14-sp">
+                                                    <div class="c-link">
+                                                        <a class="c-link__link" href="https://global.fujitsu/ja-jp/ir/library/finance#FY2025" target="_self" >
+                                                            2025年度 決算概要​および中期経営計画の振り返りと今後の方向性​
+                                                            <span class="c-link-icon">
+                                                                <svg viewbox="0 0 60 60">
+                                                                    <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+                                                                    </path>
+                                                                    <circle class="circle" cx="30" cy="30" r="28">
+                                                                    </circle>
+                                                                </svg>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                                                                    <div class="c-list-topics-b__label u-font-size-12">適時開示</div>
+                                            </div>
+                                        </li>
+                                        <li class="c-list-topics-b__item">
+                                            <time datetime="2026-04-23T00:00:00.000Z" class="c-list-topics-b__date u-font-size-14">2026年4月23日</time>
+                                            <div class="c-list-topics-b__info u-font-size-14-sp">
+                                                    <div class="c-link">
+                                                        <a class="c-link__link" href="/ja-jp/pr/news/2026/04/23-01" target="_self" >
+                                                            富士通とカーネギーメロン大学、フィジカルAI領域における共同研究センターを設立
+                                                            <span class="c-link-icon">
+                                                                <svg viewbox="0 0 60 60">
+                                                                    <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+                                                                    </path>
+                                                                    <circle class="circle" cx="30" cy="30" r="28">
+                                                                    </circle>
+                                                                </svg>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                                                                    <div class="c-list-topics-b__label u-font-size-12">プレスリリース</div>
+                                            </div>
+                                        </li>
+                                        <li class="c-list-topics-b__item">
+                                            <time datetime="2026-04-21T00:00:00.000Z" class="c-list-topics-b__date u-font-size-14">2026年4月21日</time>
+                                            <div class="c-list-topics-b__info u-font-size-14-sp">
+                                                    <div class="c-link">
+                                                        <a class="c-link__link" href="/ja-jp/pr/news/2026/04/21-01" target="_self" >
+                                                            BULLと富士通、日本独自の高精度な宇宙状況把握サービス開発に向けた基本合意を締結
+                                                            <span class="c-link-icon">
+                                                                <svg viewbox="0 0 60 60">
+                                                                    <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+                                                                    </path>
+                                                                    <circle class="circle" cx="30" cy="30" r="28">
+                                                                    </circle>
+                                                                </svg>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                                                                    <div class="c-list-topics-b__label u-font-size-12">プレスリリース</div>
+                                            </div>
+                                        </li>
+                                        <li class="c-list-topics-b__item">
+                                            <time datetime="2026-04-20T00:00:00.000Z" class="c-list-topics-b__date u-font-size-14">2026年4月20日</time>
+                                            <div class="c-list-topics-b__info u-font-size-14-sp">
+                                                    <div class="c-link">
+                                                        <a class="c-link__link" href="/ja-jp/pr/news/2026/04/20-01" target="_self" >
+                                                            中堅民需向けERPソリューション「GLOVIA One」を提供開始
+                                                            <span class="c-link-icon">
+                                                                <svg viewbox="0 0 60 60">
+                                                                    <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z">
+                                                                    </path>
+                                                                    <circle class="circle" cx="30" cy="30" r="28">
+                                                                    </circle>
+                                                                </svg>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                                                                    <div class="c-list-topics-b__label u-font-size-12">プレスリリース</div>
+                                            </div>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+        </div>
+    </div>
+</div>
+<div class="component content col-12 u-button_type_arrow position-left u-font-size-18 u-font-size-14-sp full-width p-sentence-full-width-wtp solid-bg-red u-text-align-left">
+    <div>
+            <div class="component-content p-sentence_button">
+                    <div class="c-hero-2nd_btn">
+                        <a class="c-btn-cta" rel="noopener" href="/ja-jp/pr">
+                            <span>プレスリリース一覧を見る</span>
+                        </a>
+                    </div>
+            </div>
+    </div>
+</div>
+<div class="component plain-html col-12">
+    <div class="component-content">
+<div class="component content col-12 position-left full-width u-pt-30 p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_heading" style="display: flex;">
+                <div class="c-heading">
+                    <h2 class="c-heading_ttl">製品安全に関する富士通からの重要なお知らせ</h2>
+                </div>
+                <div><img src="/-/media/Project/Fujitsu/Fujitsu-HQ/home/icon_safety_146x146.png" style="margin: auto 8px;vertical-align: middle;width: 40px;"></div>
+        </div>
+    </div>
+</div>
+
+
+<div class="component content col-12 position-left full-width p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_text">
+            <div class="c-summary">
+                <a href="https://pr.fujitsu.com/jp/news/2018/10/31.html">ノートパソコンのバッテリ充電制御機能アップデート適用のお願い（2018年11月13日改訂） </a>
+            </div>
+        </div>
+    </div>
+</div>    </div>
+</div>
+<div class="component content col-12 position-left full-width u-mt-s c-link-full-width-wtp">
+    <div>
+            <div class="component-content">
+                <div class="c-link">
+                    <a class="c-link__link" target="_self" href="https://www.fujitsu.com/jp/support/safety/">
+                        製品安全に関する富士通からの重要なお知らせ
+                        <span class="c-link-icon">
+                            <svg viewBox="0 0 60 60">
+                                <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                <circle class="circle" cx="30" cy="30" r="28"></circle>
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+            </div>
+    </div>
+</div>
+
+
+<div class="component content col-12 isga-bg-h1a full-width p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_banner">
+            <div class="c-banner isga-bg-target">
+
+<div class="component content col-12 position-left full-width u-mt-0 p-sentence-full-width-wtp">
+    <div>
+        <div class="component-content p-sentence_heading">
+                <div class="c-heading">
+                                                <h2 class="c-heading_ttl" id="">Fujitsu BizNews</h2>
+                </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="component content col-12 full-width u-mt-s p-sentence-full-width-wtp">
+    <div>
+            <div class="component-content p-sentence_text">
+                <div class="c-summary">
+                                                                                    <p>サステナビリティ・トランスフォーメーション（SX）推進に関する富士通のインサイトやビジョンを、最新のテクノロジー・トレンドとともにお届けします。</p>
+                                    </div>
+            </div>
+    </div>
+</div>
+
+<div class="component content col-12 position-left full-width u-mt-s">
+    <div>
+            <div class="component-content">
+                <div class="c-link">
+                    <a class="c-link__link" href="https://www.fujitsu.com/jp/about/resources/mailmagazine/biznews/">
+                        Fujitsu BizNews
+                        <span class="c-link-icon">
+                            <svg viewBox="0 0 60 60">
+                                <path class="arrow" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                <circle class="circle" cx="30" cy="30" r="28"></circle>
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+            </div>
+    </div>
+</div>            </div>
+        </div>
+    </div>
+</div>
+</div>    </div>
+</div>
+<div class="component content col-12 full-width">
+    <div class="component-content">
+<div class="l-section">
+<div class="component content col-12 full-width">
+    <div>
+            <div class="component-content">
+                    <div class="l-section-inner p-section-inner p-contact_type_c-wtp">
+                        <div class="p-contact_type_c">
+                                <div class="p-contact_type_c__image">
+                                    <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/home/home-contact_1252x960.jpg?h=480&amp;iar=0&amp;w=626&amp;rev=d6b8b173a1bf417a97909e5b7458ece0&amp;hash=0C98D49E76A5FDA3BD83934AEBFE496D" alt="お問い合わせ" width="626" height="480">
+                                </div>
+
+                                <div class="p-contact_type_c__bg">
+                                    <p class="p-contact_type_c__title u-color-white u-font-weight-bold u-font-size-34 u-font-size-28-sp">お客様の課題解決への第一歩はここから始まります</p>
+                                                                    <div class="c-link p-contact_type_c__link">
+<a class="c-link__link p-contact_type_c__text--icon-left u-font-size-14 u-font-size-14-sp u-color-white" href="/ja-jp/support">お問い合わせはこちら                                                    <span class="c-link-icon p-contact_type_c__icon p-contact_type_c__icon--white">
+                                                        <svg viewBox="0 0 60 60">
+                                                            <path class="arrow arrow--white" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                                            <circle class="circle circle-white" cx="30" cy="30" r="28"></circle>
+                                                        </svg>
+                                                    </span>
+</a>                                    </div>
+                                </div>
+                        </div>
+                    
+                        <div class="p-contact_type_c">
+                                <div class="p-contact_type_c__image">
+                                    <img src="/-/media/Project/Fujitsu/Fujitsu-HQ/home/home-recruit_1252x960.jpg?h=480&amp;iar=0&amp;w=626&amp;rev=7e02f265c19649e1aa1c6012151d58ad&amp;hash=B9DFA3D44B8C152631BFAC04B4203713" alt="採用情報、イベント・インターンシップ情報" width="626" height="480">
+                                </div>
+                                                        <div class="p-contact_type_c__bg">
+                                <p class="p-contact_type_c__title u-color-white u-font-weight-bold u-font-size-34 u-font-size-28-sp">挑もう。答えのない世界へ。<br/></p>
+                                                            <div class="c-link p-contact_type_c__link">
+<a class="c-link__link p-contact_type_c__text--icon-left u-font-size-14 u-font-size-14-sp u-color-white" href="https://fujitsu.recruiting.jp.fujitsu.com/">採用情報                                                <span class="c-link-icon p-contact_type_c__icon p-contact_type_c__icon--white">
+                                                    <svg viewBox="0 0 60 60">
+                                                        <path class="arrow arrow--white" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                                        <circle class="circle circle-white" cx="30" cy="30" r="28"></circle>
+                                                    </svg>
+                                                </span>
+</a><a class="c-link__link p-contact_type_c__text--icon-left u-font-size-14 u-font-size-14-sp u-color-white" href="https://fujitsu.recruiting.jp.fujitsu.com/intern/?filter=1#section-tab">イベント・インターンシップ情報                                                <span class="c-link-icon p-contact_type_c__icon p-contact_type_c__icon--white">
+                                                    <svg viewBox="0 0 60 60">
+                                                        <path class="arrow arrow--white" d="M26.3,41.9c-0.2,0-0.4-0.1-0.5-0.2c-0.3-0.3-0.3-0.8,0-1.1l10.9-10.9L25.7,18.8c-0.3-0.3-0.3-0.8,0-1.1 s0.8-0.3,1.1,0l11.4,11.4c0.3,0.3,0.3,0.8,0,1.1L26.8,41.7C26.6,41.8,26.5,41.9,26.3,41.9z"></path>
+                                                        <circle class="circle circle-white" cx="30" cy="30" r="28"></circle>
+                                                    </svg>
+                                                </span>
+</a>                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div></div>    </div>
+</div>
+
+        <div class="c-pagetop js-pagetop is-upMove" style="">
+            <a class="js-btn-pagetop" href="#top">
+                page top
+            </a>
+        </div>
+
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer class="l-footer up_plate">
+        <div id="footer" class="">
+            
+
+
+<div class="component content col-12 full-width">
+    <div>
+        <div class="component-content">
+
+
+                    <div class="l-footer-inner">
+
+
+
+                        
+
+
+                            <div class="p-footer-wtp">
+
+
+                                <ul class="p-footer-wtp__list">
+                                                <li>
+                                                    <a href="/ja-jp/terms" target="_self"  class="p-footer-wtp__link">
+                                                        このサイトについて
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/ja-jp/terms/privacy" target="_self"  class="p-footer-wtp__link">
+                                                        個人情報保護ポリシー
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/ja-jp/support" target="_self"  class="p-footer-wtp__link">
+                                                        お問い合わせ・サポート
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a href="/ja-jp/about/activities/mailmagazine" target="_self"  class="p-footer-wtp__link">
+                                                        メールマガジン
+                                                    </a>
+                                                </li>
+                                </ul>
+
+                                <div class="p-footer_sns">
+                                    
+<div style="display:flex;">
+	<a href="https://twitter.com/FujitsuOfficial" target="_blank" style="display: block;"><img src="-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/ico-x-white.svg" style="width: 55px;" alt="X" /></a>
+	<a href="https://www.facebook.com/FujitsuOfficial/" target="_blank" style="display: block;margin-left: 18px;"><img src="-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/ico-fb-white.svg" style="width: 55px;" alt="Facebook" /></a>
+	<a href="https://www.youtube.com/user/FujitsuOfficial" target="_blank" style="display: block;margin-left: 18px;"><img src="-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/ico-yt.svg" style="width: 55px;" alt="YouTube" /></a>
+	<a href="https://www.linkedin.com/company/fujitsuofficial/" target="_blank" style="display: block;margin-left: 18px;"><img src="-/media/Project/Fujitsu/Fujitsu-HQ/assets/img/ico-linkedin.svg" style="width: 55px;" alt="LinkedIn" /></a>
+</div>                                </div>
+
+                                <div class="p-footer_btm">
+                                    <div class="p-footer-wtp__copyright">
+
+
+                                            <a href="/ja-jp/terms/copyright" target="_self" >
+                                                Copyright 1994 -  2026 Fujitsu
+                                            </a>
+                                    </div>
+                                </div>
+                            </div>
+                    </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+    <script src="/-/media/Base-Themes/Core-Libraries/scripts/pre-optimized-min.js?rev=-1&t=&hash=8BB4694BBC8A4A90AAD08910CC348139"></script><script src="/-/media/Base-Themes/XA-API/Scripts/pre-optimized-min.js?rev=-1&t=&hash=7A68A1E5B8FB538C1BE6CF61391E2254"></script><script src="/-/media/Base-Themes/Main-Theme/scripts/pre-optimized-min.js?rev=-1&t=&hash=D39F9AC0BB151551221E90ECB1B96BF5"></script><script src="/-/media/Base-Themes/Google-Maps-JS-Connector/Scripts/pre-optimized-min.js?rev=-1&t=&hash=DE2F9A60C962736BB0E21A09CC236C63"></script><script src="/-/media/Base-Themes/Maps/Scripts/pre-optimized-min.js?rev=-1&t=&hash=2A452A866C370CBBCC10B818981C6538"></script><script src="/-/media/Base-Themes/SearchTheme/Scripts/pre-optimized-min.js?rev=-1&t=&hash=ABEC8EB467CF38EEF1D75627DA331C4F"></script><script src="/-/media/Base-Themes/Components-Theme/Scripts/pre-optimized-min.js?rev=-1&t=&hash=C3FB0475C3BBB209AB41EC7ABC28908C"></script><script src="/-/media/Base-Themes/Resolve-Conflicts/Scripts/pre-optimized-min.js?rev=-1&t=&hash=BD52F484686BBCF233BC7ADF6C3B145E"></script>    <!-- move here from l.47 -->
+    
+
+
+
+
+
+
+
+
+
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/jquery-360.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/gsap.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/vivus.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/ScrollMagic.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/lazysizes.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/lsunveilhooks.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/jquerymatchHeight.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/slick.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/jquerycolorbox.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/lib/splide.js"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/js/common.js?ver=1.0.8"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/js/CategoryIndex.js?ver=1.0.2"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/js/Tag Search A.js?ver=1.0.1"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/js/Tag And Keyword Search.js?ver=1.0.6"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/js/Model And Keyword Search.js?ver=1.0.5"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/js/script-pr.js?ver=1.0.8"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/assets/js/PR Search List.js?ver=1.0.4"></script>
+<script src="/-/media/Project/Fujitsu/Fujitsu-HQ/gmu/brand-evolution/script-be.js?ver=1.0.2"></script>
+</body>
+</html>
